@@ -1,0 +1,66 @@
+body{
+        background: linear-gradient(to bottom, #4c4c4c 0%,#000000 0%,#2c2c2c 10%,#2c2c2c 10%,#595959 22%,#666666 55%,#666666 65%,#474747 80%,#474747 91%,#1c1c1c 97%,#1c1c1c 97%,#1c1c1c 100%,#2b2b2b 100%,#111111 100%,#111111 100%,#131313 100%,#111111 100%,#2b2b2b 100%);
+        /*background-color: white;*/
+        height: 700px;
+    }
+
+    h1, h3, p{
+        color: #D2B887;
+    }
+
+	.loser{
+		color: red;
+	}
+
+    h1, h3{
+        margin-left: 55px
+    }
+
+    .container{
+        width: auto;
+        height: auto;
+        background-color: #D2B887;
+        border-radius: 10px;
+        display: inline-block;
+        margin-left: 55px;
+        margin-top: 45px;
+    }
+
+    .boxes{
+        width: 250px;
+        height: 250px;
+        background: linear-gradient(to bottom, #4c4c4c 0%,#000000 0%,#2c2c2c 10%,#2c2c2c 10%,#595959 22%,#666666 55%,#666666 65%,#474747 80%,#474747 91%,#1c1c1c 97%,#1c1c1c 97%,#1c1c1c 100%,#2b2b2b 100%,#111111 100%,#111111 100%,#131313 100%,#111111 100%,#2b2b2b 100%);
+        color: white;
+        border-radius: 10px;
+        display: inline-block;
+        margin: 45px 15px;
+		padding: 10px;
+        text-align: center;
+    }
+
+    .actbox{
+        margin-left: 55px;
+        width: auto;
+        height: 100px;
+        padding-left: 5px;
+        border: 2px solid black;
+        border-radius: 10px;
+        overflow: scroll;
+    }
+
+    .resetbtn{
+        margin-left: 55px;
+    }
+
+    .btn {
+        background: #c2af8c;
+        background-image: linear-gradient(to bottom, #c2af8c, #D2B887);
+        border-radius: 10px;
+        text-shadow: 1px 1px 3px #666666;
+        font-family: Georgia;
+        white-space: normal;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 5px 10px 5px;
+        text-decoration: none;
+           }
