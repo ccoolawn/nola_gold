@@ -5,7 +5,6 @@ if ( !isset($_SESSION['total_benjis'])){
     $_SESSION['total_benjis'] = 0;
 }
 
-
 // $_SESSION = array();
 ?>
 
